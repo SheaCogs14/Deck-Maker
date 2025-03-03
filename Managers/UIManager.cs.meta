@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6fc52ddbe6e5ce943a09f4a8d28c0a1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - handPanel: {instanceID: 0}
+  - aiHandPanel: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  - cardBackPrefab: {instanceID: 0}
+  - discardPilePanel: {instanceID: 0}
+  - aiDiscardPilePanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
